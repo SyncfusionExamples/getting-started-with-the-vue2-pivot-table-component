@@ -10,7 +10,7 @@
   "dependencies": {
     "@syncfusion/ej2-vue-pivotview": "^26.1.40",
     "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "vue": "^2.7.14"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
